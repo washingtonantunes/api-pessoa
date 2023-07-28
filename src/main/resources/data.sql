@@ -1,0 +1,15 @@
+insert into pessoa (nome, email, data_nascimento, idade) values ('Willdon Freyn', 'wfreyn0@telegraph.co.uk', '2023-06-18', 20);
+insert into pessoa (nome, email, data_nascimento, idade) values ('Lorin O''Dunneen', 'lodunneen1@mail.ru', '2022-09-15', 53);
+insert into pessoa (nome, email, data_nascimento, idade) values ('Johnnie Moret', 'jmoret2@intel.com', '2022-10-14', 54);
+insert into pessoa (nome, email, data_nascimento, idade) values ('Merrill Braunston', 'mbraunston3@thetimes.co.uk', '2022-10-30', 16);
+insert into pessoa (nome, email, data_nascimento, idade) values ('Demetris Grumbridge', 'dgrumbridge4@netvibes.com', '2022-10-15', 65);
+insert into pessoa (nome, email, data_nascimento, idade) values ('Julio Espinola', 'jespinola5@digg.com', '2022-10-18', 15);
+insert into pessoa (nome, email, data_nascimento, idade) values ('Penni Klimentov', 'pklimentov6@mediafire.com', '2022-11-28', 77);
+insert into pessoa (nome, email, data_nascimento, idade) values ('Emlen Goodred', 'egoodred7@umich.edu', '2023-01-04', 18);
+insert into pessoa (nome, email, data_nascimento, idade) values ('Oralia Honnan', 'ohonnan8@histats.com', '2022-11-16', 19);
+insert into pessoa (nome, email, data_nascimento, idade) values ('Son O''Duilleain', 'soduilleain9@nasa.gov', '2023-07-21', 33);
+insert into pessoa (nome, email, data_nascimento, idade) values ('Barr Breston', 'bbrestona@ycombinator.com', '2022-11-15', 35);
+insert into pessoa (nome, email, data_nascimento, idade) values ('Mil Ericssen', 'mericssenb@usgs.gov', '2023-01-26', 16);
+insert into pessoa (nome, email, data_nascimento, idade) values ('Corliss Menichini', 'cmenichinic@slashdot.org', '2022-11-30', 21);
+insert into pessoa (nome, email, data_nascimento, idade) values ('Dix Veneur', 'dveneurd@theglobeandmail.com', '2023-02-02', 12);
+insert into pessoa (nome, email, data_nascimento, idade) values ('Jamey Boate', 'jboatee@elegantthemes.com', '2022-07-28', 62);

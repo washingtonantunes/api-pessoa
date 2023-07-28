@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    url: jdbc:h2:mem:pessoa
+    username: dev
+    password: dev@2023
+    driverClassName: org.h2.Driver
+  jpa:
+    defer-datasource-initialization: true
+    database-platform: org.hibernate.dialect.H2Dialect
+    hibernate:
+      ddl-auto: update
